@@ -1,0 +1,25 @@
+.navbar{
+    width: 100%;
+    position:fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.netflixlogo{
+    height: 2.5rem;
+    object-fit: contain;
+    width: 5rem;
+    position: fixed;
+    left: 1.2rem;
+    padding-top:0.5rem;
+
+}
+.navbaravatar{
+    height: 2.5rem;
+    width: 5rem;
+    object-fit: contain;
+    position: fixed;
+    right: 1rem;
+    padding-top:1rem ;
+    
+}
